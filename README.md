@@ -1,11 +1,5 @@
 # IBM Recommendation
 
-## Table of Content
-1. [Project Motivation](#project-motivation)
-2. [Installation](#installation)
-3. [About the Data](#about-the-data)
-4. [Licensing, Authors & Acknowledgements](#licensing-authors--acknowledgements)
-
 ## Project Motivation
 This project is analysing data of users and their interactions with artciles on the IBM Watson Studio platform. It aims to make recommendations to users about new articles that they will like.
 
